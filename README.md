@@ -125,7 +125,3 @@ Here’s an example sequence to estimate components for a signal with normal noi
 
 - **Error: Undefined variable or function**: Ensure all files are in the same directory and properly named.
 - **Unexpected results**: Verify the noise generation script parameters and dataset consistency.
-
-## Contact
-
-For further assistance, please contact the project author or refer to the MATLAB documentation for any function-related queries.
